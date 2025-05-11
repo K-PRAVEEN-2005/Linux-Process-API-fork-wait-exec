@@ -59,7 +59,8 @@ int main() {
 
 ##OUTPUT
 
-![Alt text](images/2-1.png)
+![1](https://github.com/user-attachments/assets/dff1dad5-3245-42c4-bf89-573903f1f421)
+
 
 
 
@@ -136,7 +137,8 @@ int main() {
 
 
 
-![Alt text](images/2-2.png)
+ ![2](https://github.com/user-attachments/assets/ee07894f-7a3a-4751-a254-40fec1612132)
+
 
 
 
